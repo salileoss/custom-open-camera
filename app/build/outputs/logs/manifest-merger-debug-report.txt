@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/5e6c966e41283eb28599ac75ae8916f4/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/7ba19d4c13a915d31338854ea04490b4/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/bc3876738bdb5d8e498d8c27630d1092/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/240ad4e7c0a4c0f0ac07ba22afac43c2/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/13f115cc5d5138e9ed6d7046dab5d030/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/776dfa9be835a7a130740bd6b0619584/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/4660acd0807cc71ba66bee2bd6cbbbe5/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/2f9ffac3f9aa7c3da9b2ea0a60bff798/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e393f8741de26a3dcc6eeb170bd18679/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/c98a9bc0a455ab0200cce6feac99fa67/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b82955ed32a4ee277723d8123c155ac3/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/8756cea37b098f254fcf1c05271849e1/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e2a5a2145c109898fc28f4778cc59fa2/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/912d14cf8b7da59afd70a06b1ab8df17/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/6382b0a1555e0e71f2a2930dfe6b1d66/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/ab60f6dd6ef13cb57d98ea7973f298c0/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/441dd746fc5507909e127eaa50801847/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/9f66af0770fd83464340388aae824c93/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/f89186d3faa35207960141dbf97e7823/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e30d9e6f3403e84c4cae532d406e4009/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/855199d21a2457dffd94f776f414402b/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/0c580ad6917269345b415f2689381fa7/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/32c3c3c1ff1572cd4fbf4adc8b2e281b/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:1-150:12
+	package
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:5:5-33
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:6:5-35
+supports-screens
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:5-164
+	android:largeScreens
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:52-79
+	android:smallScreens
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:109-136
+	android:normalScreens
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:80-108
+	android:xlargeScreens
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:23-51
+	android:anyDensity
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:9:137-162
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.camera
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.microphone
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:19:5-64
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:19:19-61
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:20:5-90
+	android:required
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:20:64-88
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:20:19-63
+application
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:22:5-149:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:25:9-41
+	android:largeHeap
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:28:9-33
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:26:9-46
+activity#net.sourceforge.opencamera.MainActivity
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:31:9-69:20
+	android:screenOrientation
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:34:13-50
+	android:clearTaskOnLaunch
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:36:13-45
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:32:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:41:27-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:42:27-73
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:45:25-74
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.media.action.IMAGE_CAPTURE_SECURE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:49:17-84
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:49:25-81
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:53:17-82
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:53:25-79
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:56:13-59:29
+action#android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:57:17-89
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:57:25-86
+intent-filter#action:name:android.media.action.VIDEO_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:60:13-63:29
+action#android.media.action.VIDEO_CAMERA
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:61:25-73
+intent-filter#action:name:android.media.action.VIDEO_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:64:13-67:29
+action#android.media.action.VIDEO_CAPTURE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:65:25-74
+meta-data#android.app.shortcuts
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:68:13-97
+	android:resource
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:68:61-94
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:68:24-60
+activity#net.sourceforge.opencamera.remotecontrol.DeviceScanner
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:70:9-78:20
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:71:13-82
+intent-filter#action:name:net.sourceforge.opencamera.Remotecontrol.DeviceScanner+category:name:android.intent.category.DEFAULT
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:74:13-77:29
+action#net.sourceforge.opencamera.Remotecontrol.DeviceScanner
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:75:17-96
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:75:25-94
+activity#net.sourceforge.opencamera.TakePhoto
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:81:9-90:20
+	android:screenOrientation
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:85:13-50
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:83:13-47
+	android:excludeFromRecents
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:88:13-46
+	android:configChanges
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:86:13-74
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:84:13-60
+	android:taskAffinity
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:87:13-36
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:82:13-37
+receiver#net.sourceforge.opencamera.MyWidgetProvider
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:92:9-105:20
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:94:13-45
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:93:13-47
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:95:13-44
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:96:13-98:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:97:18-85
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:97:26-82
+meta-data#android.appwidget.provider
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:102:13-104:54
+	android:resource
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:104:16-51
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:103:16-57
+receiver#net.sourceforge.opencamera.MyWidgetProviderTakePhoto
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:107:9-117:20
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:109:13-47
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:108:13-60
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:110:13-53
+service#net.sourceforge.opencamera.MyTileService
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:119:9-127:19
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:122:13-43
+	android:permission
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:123:13-77
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:121:13-64
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:120:13-68
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:124:13-126:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:125:17-87
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:125:25-84
+service#net.sourceforge.opencamera.MyTileServiceVideo
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:129:9-137:19
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:132:13-49
+	android:permission
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:133:13-77
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:131:13-60
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:130:13-73
+service#net.sourceforge.opencamera.MyTileServiceFrontCamera
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:139:9-147:19
+	android:label
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:142:13-43
+	android:permission
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:143:13-77
+	android:icon
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:140:13-79
+service#net.sourceforge.opencamera.remotecontrol.BluetoothLeService
+ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:148:9-117
+	android:enabled
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:148:93-115
+	android:name
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml:148:18-92
+uses-sdk
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/5e6c966e41283eb28599ac75ae8916f4/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/5e6c966e41283eb28599ac75ae8916f4/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/7ba19d4c13a915d31338854ea04490b4/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/7ba19d4c13a915d31338854ea04490b4/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/bc3876738bdb5d8e498d8c27630d1092/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/bc3876738bdb5d8e498d8c27630d1092/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/240ad4e7c0a4c0f0ac07ba22afac43c2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/240ad4e7c0a4c0f0ac07ba22afac43c2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/13f115cc5d5138e9ed6d7046dab5d030/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/13f115cc5d5138e9ed6d7046dab5d030/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/776dfa9be835a7a130740bd6b0619584/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/776dfa9be835a7a130740bd6b0619584/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/4660acd0807cc71ba66bee2bd6cbbbe5/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/4660acd0807cc71ba66bee2bd6cbbbe5/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/2f9ffac3f9aa7c3da9b2ea0a60bff798/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/2f9ffac3f9aa7c3da9b2ea0a60bff798/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e393f8741de26a3dcc6eeb170bd18679/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e393f8741de26a3dcc6eeb170bd18679/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/c98a9bc0a455ab0200cce6feac99fa67/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/c98a9bc0a455ab0200cce6feac99fa67/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b82955ed32a4ee277723d8123c155ac3/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b82955ed32a4ee277723d8123c155ac3/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/8756cea37b098f254fcf1c05271849e1/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/8756cea37b098f254fcf1c05271849e1/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e2a5a2145c109898fc28f4778cc59fa2/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e2a5a2145c109898fc28f4778cc59fa2/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b73d0db3c489aeab8b531c92b0313ef9/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/912d14cf8b7da59afd70a06b1ab8df17/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/912d14cf8b7da59afd70a06b1ab8df17/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/6382b0a1555e0e71f2a2930dfe6b1d66/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/6382b0a1555e0e71f2a2930dfe6b1d66/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/ab60f6dd6ef13cb57d98ea7973f298c0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/ab60f6dd6ef13cb57d98ea7973f298c0/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/441dd746fc5507909e127eaa50801847/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/441dd746fc5507909e127eaa50801847/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/9f66af0770fd83464340388aae824c93/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/9f66af0770fd83464340388aae824c93/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/f89186d3faa35207960141dbf97e7823/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/salileo/.gradle/caches/transforms-2/files-2.1/f89186d3faa35207960141dbf97e7823/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e30d9e6f3403e84c4cae532d406e4009/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/e30d9e6f3403e84c4cae532d406e4009/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/855199d21a2457dffd94f776f414402b/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/855199d21a2457dffd94f776f414402b/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/0c580ad6917269345b415f2689381fa7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/0c580ad6917269345b415f2689381fa7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/32c3c3c1ff1572cd4fbf4adc8b2e281b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/salileo/.gradle/caches/transforms-2/files-2.1/32c3c3c1ff1572cd4fbf4adc8b2e281b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/AndroidManifest.xml
