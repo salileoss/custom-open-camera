@@ -208,6 +208,7 @@ drawable focus_mode_locked
 drawable focus_mode_manual
 drawable ic_burst_mode_white_48dp
 drawable ic_colorize_white_48dp
+drawable ic_crosshair
 drawable ic_exposure_white_48dp
 drawable ic_face_red_48dp
 drawable ic_face_white_48dp
@@ -330,6 +331,7 @@ id gui_anchor
 id hide_container
 id icon
 id icon_group
+id imageView
 id info
 id iso_buttons
 id iso_container
