@@ -16,7 +16,7 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /Users/salileo/AndroidStudioProjects/opencamera-code/app/src/main/rs/create_mtb.rs
+ * The source Renderscript file: /Users/salileo/AndroidStudioProjects/custom open source camera/custom-open-camera/app/src/main/rs/create_mtb.rs
  */
 
 package net.sourceforge.opencamera;
